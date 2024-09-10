@@ -1,0 +1,6 @@
+ds24b33.c:22:13:ExecuteCommand	3
+ds24b33.c:39:6:WriteScratchpad	1
+ds24b33.c:46:6:ReadScratchpad	1
+ds24b33.c:52:6:CopyScratchpad	2
+ds24b33.c:62:6:ReadMemory	1
+ds24b33.c:68:6:ReadRom	1

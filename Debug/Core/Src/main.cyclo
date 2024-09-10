@@ -1,0 +1,12 @@
+main.c:77:5:main	2
+main.c:165:6:SystemClock_Config	3
+main.c:204:13:MX_USART1_UART_Init	2
+main.c:237:13:MX_USART2_UART_Init	2
+main.c:270:13:MX_GPIO_Init	1
+main.c:287:13:write_data_toMem	3
+main.c:318:13:write_Userdata	8
+main.c:356:13:get_rand_data	2
+main.c:364:13:compare_data	3
+main.c:374:13:read_mem_data	2
+main.c:392:13:check_memory	3
+main.c:417:6:Error_Handler	1

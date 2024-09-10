@@ -1,0 +1,12 @@
+../Core/Src/main.c:77:5:main	160	static
+../Core/Src/main.c:165:6:SystemClock_Config	72	static
+../Core/Src/main.c:204:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:237:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:270:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:287:13:write_data_toMem	120	dynamic
+../Core/Src/main.c:318:13:write_Userdata	72	dynamic
+../Core/Src/main.c:356:13:get_rand_data	24	static
+../Core/Src/main.c:364:13:compare_data	24	static
+../Core/Src/main.c:374:13:read_mem_data	72	dynamic
+../Core/Src/main.c:392:13:check_memory	80	static
+../Core/Src/main.c:417:6:Error_Handler	4	static,ignoring_inline_asm

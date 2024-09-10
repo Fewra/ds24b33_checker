@@ -1,0 +1,6 @@
+../Core/Src/ds24b33.c:22:13:ExecuteCommand	40	static
+../Core/Src/ds24b33.c:39:6:WriteScratchpad	24	static
+../Core/Src/ds24b33.c:46:6:ReadScratchpad	16	static
+../Core/Src/ds24b33.c:52:6:CopyScratchpad	24	static
+../Core/Src/ds24b33.c:62:6:ReadMemory	24	static
+../Core/Src/ds24b33.c:68:6:ReadRom	16	static
